@@ -1,0 +1,3 @@
+# Salin file ini menjadi local.properties lalu sesuaikan path SDK Android Anda.
+# Contoh untuk komputer ini (jika SDK dipasang di lokasi tersebut):
+sdk.dir=C\:\\Users\\ACER\\AppData\\Local\\Android\\Sdk

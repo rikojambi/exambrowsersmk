@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna identitas: biru tua + aksen emas. Boleh disesuaikan di sekolah. -->
+    <color name="primary">#0B3D6E</color>
+    <color name="header">#0B3D6E</color>
+    <color name="on_header">#FFFFFF</color>
+    <color name="accent">#F2B705</color>
+    <color name="background">#F4F6F8</color>
+    <color name="text">#202124</color>
+    <color name="field_background">#FFFFFF</color>
+    <color name="error_background">#FDECEA</color>
+    <color name="error_text">#B3261E</color>
+    <color name="warning">#FFF3CD</color>
+    <color name="on_warning">#6B4E00</color>
+    <color name="dot_ok">#2E7D32</color>
+    <color name="dot_error">#C62828</color>
+    <color name="dot_pending">#F2B705</color>
+    <color name="dot_idle">#9E9E9E</color>
+</resources>

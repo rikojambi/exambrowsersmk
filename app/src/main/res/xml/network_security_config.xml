@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!--
+        Alamat CBT dimasukkan manual oleh siswa, sehingga tidak bisa diprediksi
+        sebagai satu IP/hostname. HTTP diizinkan secara umum, tetapi WebView
+        tetap hanya boleh menuju origin (skema + host + port) yang divalidasi
+        di CbtSession. Lihat CbtAddress.kt dan CbtSession.kt.
+    -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExamBrowser SMKN 6 Muaro Jambi</string>
+    <string name="app_name_short">ExamBrowser</string>
+    <string name="school_name">SMKN 6 Muaro Jambi</string>
+
+    <string name="input_instruction">Masukkan alamat IP atau URL CBT sekolah:</string>
+    <string name="input_hint">http://192.168.10.1/cbt</string>
+    <string name="connect">HUBUNGKAN</string>
+
+    <string name="status_idle">Belum terhubung</string>
+    <string name="status_checking">Memeriksa koneksi…</string>
+    <string name="status_connected">Server siap</string>
+    <string name="status_disconnected">Server tidak terjangkau</string>
+
+    <string name="error_empty_address">Alamat CBT tidak boleh kosong.</string>
+    <string name="error_invalid_address">Format alamat CBT tidak valid. Contoh: http://192.168.10.1/cbt</string>
+    <string name="error_unreachable">Alamat CBT tidak dapat diakses. Periksa IP server dan pastikan HP terhubung ke Wi-Fi sekolah.</string>
+
+    <string name="retry">Coba Lagi</string>
+    <string name="change_address">Ubah Alamat</string>
+    <string name="change_server">Ganti Server</string>
+    <string name="reload">Muat ulang</string>
+
+    <string name="warning_background">Aplikasi sempat tidak aktif. Kejadian ke-%1$d dicatat selama sesi ini.</string>
+
+    <string name="change_server_title">Ganti server CBT?</string>
+    <string name="change_server_message">Anda akan kembali ke halaman awal untuk memasukkan alamat lain. Ujian yang sedang berjalan tidak akan diubah oleh ExamBrowser.</string>
+    <string name="change">Ganti</string>
+
+    <string name="exit_title">Keluar ExamBrowser?</string>
+    <string name="exit_message">Pastikan ujian sudah selesai dan jawaban sudah dikirim melalui CBT.</string>
+    <string name="cancel">Batal</string>
+    <string name="exit">Keluar</string>
+</resources>
